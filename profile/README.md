@@ -1,6 +1,6 @@
 #  Intelligent Data Analysis - Inteligentná analýza údajov 
 
-IAU_B course @ FIIT STU in Bratislava 2020/2021 2021/2022 2022/2023 2023/2024 
+### IAU_B course @ FIIT STU in Bratislava 2020/2021 2021/2022 2022/2023 2023/2024 
 
 <img align="right" height=250px src="https://www.maxpixel.net/static/photo/2x/Internet-Technology-Networking-Network-Data-4851079.jpg">
 
