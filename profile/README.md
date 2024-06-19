@@ -4,10 +4,7 @@
 
 Students will acquire a comprehensive understanding of **data science process**, including fundamental concepts and data analysis techniques. They will realize the functioning of these techniques and develop an intuitive for **building intelligent applications** based on a data-driven approach. Furthermore, they will gain insight into the types of questions that can be addressed through data analysis and will develop the ability to apply and evaluate **machine learning methods**. Special emphasis is placed on data analysis and **data preprocessing**, with a coverage of basic machine learning methods, their evaluation, and comparison.
 
-<p align="center">
-    <img height=300px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
-    <img height=300px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
-</p>
+<p align="center"><img height=300px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png"></p>
 
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
 
