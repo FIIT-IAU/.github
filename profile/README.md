@@ -1,4 +1,5 @@
-#  Intelligent Data Analysis - Inteligentná analýza údajov  
+#  Intelligent Data Analysis (IAU_B)
+- Inteligentná analýza údajov
 
 ### Introduction to Data Science - IAU_B course @ FIIT STU in Bratislava
 
