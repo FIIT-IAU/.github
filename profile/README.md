@@ -23,7 +23,7 @@ Students will acquire a comprehensive understanding of **data science process**,
 
 <p align="left">
     <img height=60px src="https://giangzuzana.github.io/images/co-funded-by-EU.png">
-    <img height=100px src="https://giangzuzana.github.io/images/Vzdelavanie_4.png">
+    <img height=80px src="https://giangzuzana.github.io/images/Vzdelavanie_4.png">
 </p>
 
 <!--
